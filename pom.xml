@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.learning</groupId>
-	<artifactId>ollama</artifactId>
+	<artifactId>openai</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ollama</name>
-	<description>Demo project for Spring Boot ai and ollama</description>
+	<name>openai</name>
+	<description>Demo project for Spring Boot ai and open ai</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -37,7 +37,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.ai</groupId>
-			<artifactId>spring-ai-starter-model-ollama</artifactId>
+			<artifactId>spring-ai-starter-model-openai</artifactId>
 		</dependency>
 
 		<dependency>
